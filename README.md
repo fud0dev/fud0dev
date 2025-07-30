@@ -7,23 +7,23 @@
 # Escribe 'help' para ver los comandos disponibles.
 # O simplemente explora mi perfil.
 
-[codetronp@github ~]$ whoami
-Hola, soy **codetronp**
+[pachexyz@github ~]$ whoami
+Hola, soy **pachexyz**
 
-[codetronp@github ~] cat bio.txt
+[pachexyz@github ~] cat bio.txt
 Soy un desarrollador de aplicaciones web apasionado por el desarrollo web, la inteligencia artificial y la ciberseguridad.
 Me encanta aprender y construir cosas nuevas.
 Actualmente, estoy explorando Python.
 
-[codetronp@github ~]$ ls -la dev/skills/
+[pachexyz@github ~]$ ls -la dev/skills/
 total 16
-drwxr-xr-x  2 codetronp codetronp 4096 Jul 10 14:00 .
-drwxr-xr-x 10 codetronp codetronp 4096 Jul 10 14:00 ..
--rw-r--r--  1 codetronp codetronp  512 Jul 10 14:00 languages.txt
--rw-r--r--  1 codetronp codetronp  512 Jul 10 14:00 frameworks.txt
--rw-r--r--  1 codetronp codetronp  512 Jul 10 14:00 tools.txt
+drwxr-xr-x  2 pachexyz pachexyz 4096 Jul 10 14:00 .
+drwxr-xr-x 10 pachexyz pachexyz 4096 Jul 10 14:00 ..
+-rw-r--r--  1 pachexyz pachexyz  512 Jul 10 14:00 languages.txt
+-rw-r--r--  1 pachexyz pachexyz  512 Jul 10 14:00 frameworks.txt
+-rw-r--r--  1 pachexyz pachexyz  512 Jul 10 14:00 tools.txt
 
-[codetronp@github ~]$ cat dev/skills/languages.txt
+[pachexyz@github ~]$ cat dev/skills/languages.txt
 Lenguajes que domino:
 * Python
 * JavaScript
@@ -31,7 +31,7 @@ Lenguajes que domino:
 * CSS
 * PHP
 
-[codetronp@github ~]$ cat dev/skills/frameworks.txt
+[pachexyz@github ~]$ cat dev/skills/frameworks.txt
 Frameworks & Librerías:
 * React
 * Node.js
@@ -39,7 +39,7 @@ Frameworks & Librerías:
 * Spring Boot
 * Vue.js
 
-[codetronp@github ~]$ cat dev/skills/tools.txt
+[pachexyz@github ~]$ cat dev/skills/tools.txt
 Herramientas & Plataformas:
 * Docker, Kubernetes
 * AWS, Google Cloud, Azure
@@ -47,9 +47,9 @@ Herramientas & Plataformas:
 * Linux, Bash
 * SQL, NoSQL Databases
 
-
-[codetronp@github ~]$ exit
+[pachexyz@github ~]$ exit
 Logging out...
+
                                                                                                                    
 
                                                                                                                    
