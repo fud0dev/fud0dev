@@ -1,1 +1,27 @@
-<img width="1587" height="2245" alt="@reallygreatsite" src="https://github.com/user-attachments/assets/abd7c7a9-b74e-4887-a1ca-d00552d34d27" />
+```
+  ███████╗██╗   ██╗██████╗  ██████╗
+  ██╔════╝██║   ██║██╔══██╗██╔═████╗
+  █████╗  ██║   ██║██║  ██║██║██╔██║
+  ██╔══╝  ██║   ██║██║  ██║████╔╝██║
+  ██║     ╚██████╔╝██████╔╝╚██████╔╝
+  ╚═╝      ╚═════╝ ╚═════╝  ╚═════╝
+```
+
+```
+fud0@github ─────────────────────────────────────────────────
+ · OS: .................. Windows 11
+ · Location: ............ Spain
+ · Focus: ............... OSINT · Security Research · Automation
+ · IDE: ................. VSCode
+
+ · Languages.Programming:  Python, JavaScript, PowerShell, Bash
+ · Languages.Real: ........ Spanish, English
+
+ · Hobbies.Software: .... OSINT Tooling, Security Research
+ · Hobbies.Tools: ....... Network Utilities, Windows Scripting
+ · Hobbies.Other: ....... Cybersecurity, Privacy, CTF
+
+ · Contact ────────────────────────────────────────────────────
+ · GitHub: .............. github.com/fud0dev
+
+```
