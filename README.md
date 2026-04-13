@@ -12,7 +12,6 @@ fud0@github ──────────────────────�
  · OS: .................. Windows 11
  · Location: ............ Spain
  · Focus: ............... OSINT · Security Research · Automation
- · IDE: ................. VSCode
 
  · Languages.Programming:  Python, JavaScript, PowerShell, Bash
  · Languages.Real: ........ Spanish, English
