@@ -22,6 +22,6 @@ fud0@github ──────────────────────�
  · Hobbies.Other: ....... Cybersecurity, Privacy, CTF
 
  · Contact ────────────────────────────────────────────────────
- · GitHub: .............. github.com/fud0dev
+ · Email: .............. fud0devv@gmail.com
 
 ```
