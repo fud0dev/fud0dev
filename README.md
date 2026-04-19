@@ -9,7 +9,7 @@
 
 ```
 fud0@github ─────────────────────────────────────────────────
- · OS: .................. Windows 11
+ · OS: .................. Windows 11 PRO
  · Location: ............ Spain
  · Focus: ............... OSINT · Security Research · Automation
 
